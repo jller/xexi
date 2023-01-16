@@ -1,0 +1,272 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "Tradiciones Peruanas",
+      "precio": "33",
+      "autor": "Manuel Ricardo, Palma y Carrillo",
+      "genero": "Tradicion"
+    },
+    {
+      "id": 2,
+      "nombre": "Neologismos y americanismos",
+      "precio": "25",
+      "autor": "Manuel Ricardo, Palma y Carrillo",
+      "genero": "Tradicion"
+    },
+    {
+      "id": 3,
+      "nombre": "El Mundo es Ancho y Ajeno",
+      "precio": "39",
+      "autor": "Ciro, Alegría Bazán",
+      "genero": "Novela"
+    },
+    {
+      "id": 4,
+      "nombre": "La Serpiente de Oro",
+      "precio": "29",
+      "autor": "Ciro, Alegría Bazán",
+      "genero": "Novela"
+    },
+    {
+      "id": 5,
+      "nombre": "Trilce",
+      "precio": "39",
+      "autor": "César Abraham, Vallejo Mendoza",
+      "genero": "Poesia"
+    },
+    {
+      "id": 6,
+      "nombre": "Paco Yunque",
+      "precio": "15",
+      "autor": "César Abraham, Vallejo Mendoza",
+      "genero": "Poesia"
+    },
+    {
+      "id": 7,
+      "nombre": "La ciudad y los perros",
+      "precio": "49",
+      "autor": "Jorge Mario, Vargas LLosa",
+      "genero": "Novela"
+    },
+    {
+      "id": 8,
+      "nombre": "Cinco esquinas",
+      "precio": "49",
+      "autor": "Jorge Mario, Vargas LLosa",
+      "genero": "Novela"
+    },
+    {
+      "id": 9,
+      "nombre": "El cuervo",
+      "precio": "33",
+      "autor": "Edgar, Allan Poe",
+      "genero": "Horror"
+    },
+    {
+      "id": 10,
+      "nombre": "El gato negro",
+      "precio": "25",
+      "autor": "Edgar, Allan Poe",
+      "genero": "Horror"
+    },
+    {
+      "id": 11,
+      "nombre": "La ciudad muerta",
+      "precio": "15",
+      "autor": "Abraham, Valdelomar Pinto",
+      "genero": "Poesia"
+    },
+    {
+      "id": 12,
+      "nombre": "Yerba santa",
+      "precio": "15",
+      "autor": "Abraham, Valdelomar Pinto",
+      "genero": "Poesia"
+    }
+  ],
+  "empleados": [
+    {
+      "id": 1,
+      "nombre": "Ricardo",
+      "apellidos": "Rojas Rodriguez",
+      "cargo": "Analista Programador"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria",
+      "apellidos": "Rivera Perez",
+      "cargo": "Analista de base de datos"
+    },
+    {
+      "id": 3,
+      "nombre": "Miguel",
+      "apellidos": "Avendaño Flores",
+      "cargo": "Jefe de Proyecto"
+    },
+    {
+      "id": 4,
+      "nombre": "Pablo",
+      "apellidos": "Ramirez Lagos",
+      "cargo": "Analista desarrollador Jr."
+    }
+  ],
+  "empresas": [
+    {
+      "nombre": "Microsoft",
+      "descripcion": "Empresa de Tecnologia y SW",
+      "calificacion": "7",
+      "id": 1
+    },
+    {
+      "nombre": "Apple",
+      "descripcion": "Empresa de Tecnologia, SW, HW y equipos moviles",
+      "calificacion": "9",
+      "id": 2
+    },
+    {
+      "nombre": "Wong",
+      "descripcion": "Empresa Retail supermercados chilenos",
+      "calificacion": "8",
+      "id": 3
+    },
+    {
+      "nombre": "Plaza Vea",
+      "descripcion": "Empresa Retail supermercados intercorp",
+      "calificacion": "9",
+      "id": 4
+    }
+  ],
+  "peliculas": [
+    {
+      "id": 2,
+      "nombre": "El Gato con Botas",
+      "estreno": "2022",
+      "genero": "Animada",
+      "duracion": "1 hrs 30 min",
+      "calificacion": "4"
+    },
+    {
+      "id": 3,
+      "nombre": "Maremoto",
+      "estreno": "2023",
+      "genero": "Acción",
+      "duracion": "1 hrs 44 min",
+      "calificacion": "5"
+    },
+    {
+      "id": 4,
+      "nombre": "Megan",
+      "estreno": "2023",
+      "genero": "Terror",
+      "duracion": "1 hrs 30 min",
+      "calificacion": "7"
+    },
+    {
+      "id": 5,
+      "nombre": "Mi vecino gruñon",
+      "estreno": "2023",
+      "genero": "Comedia",
+      "duracion": "2 hrs 6 min",
+      "calificacion": "3"
+    },
+    {
+      "id": 6,
+      "nombre": "Una Aventura Gigante",
+      "estreno": "2023",
+      "genero": "Familiar",
+      "duracion": "1 hrs 30 min",
+      "calificacion": "2"
+    },
+    {
+      "id": 7,
+      "nombre": "El payaso siniestro Terrifier 2",
+      "estreno": "2023",
+      "genero": "Terror",
+      "duracion": "138 min",
+      "calificacion": "5"
+    },
+    {
+      "id": 8,
+      "nombre": "Frida",
+      "estreno": "1968",
+      "genero": "Drama",
+      "duracion": "110 min",
+      "calificacion": "7"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Leche Evaporada",
+      "precio": 4,
+      "descripcion": "Es un producto alimenticio saludable",
+      "n": 1,
+      "t": 4,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVtmydUkyQS1ZTUVqui4TIC4nSX_FY7vNzQ&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "nombre": "Gaseosa Inka Kola 1L",
+      "precio": 3,
+      "descripcion": "Es una bebida nacional",
+      "n": 1,
+      "t": 3,
+      "imagen": "https://wongfood.vteximg.com.br/arquivos/ids/609338-1000-1000/Gaseosa-Inca-Kola-Sin-Az-car-Botella-1L-1-219874.jpg?v=638089911467770000"
+    },
+    {
+      "id": 3,
+      "nombre": "Gaseosa Coca Cola 1L",
+      "precio": 3.5,
+      "descripcion": "Es una bebida de mucho consumo",
+      "n": 1,
+      "t": 3.5,
+      "imagen": "https://images.heb.com/is/image/HEBGrocery/001397056?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+    },
+    {
+      "id": 4,
+      "nombre": "Arroz integral",
+      "precio": 4.5,
+      "descripcion": "Es una producto de primera necesidad y alta calidad",
+      "n": 1,
+      "t": 4.5,
+      "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/5002519-450-450/2145.jpg?v=637768218799670000"
+    },
+    {
+      "id": 5,
+      "nombre": "Frejoles en bolsa",
+      "precio": 6.5,
+      "descripcion": "Es una producto con alta vitamina B",
+      "n": 1,
+      "t": 6.5,
+      "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/550677-1000-1000/1603.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Mandarinas por Kg",
+      "precio": 5,
+      "descripcion": "Es una producto con alta vitamina C",
+      "n": 1,
+      "t": 5,
+      "imagen": "https://plazavea.vteximg.com.br/arquivos/ids/518575-184-184/874847.jpg?v=637417681323630000"
+    },
+    {
+      "id": 7,
+      "nombre": "Whisky Gold Label 750ml",
+      "precio": 230,
+      "descripcion": "Solo para mayores de 18 años",
+      "n": 1,
+      "t": 230,
+      "imagen": "https://almendariz.com.pe/wp-content/uploads/2021/12/JOHNNIE-WALKER-GOLD-RESERVE.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Whisky  Black Label 750ml",
+      "precio": 110,
+      "descripcion": "Apto solo para adultos",
+      "n": 1,
+      "t": 110,
+      "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/1347867-1000-1000/image-6b1aa7cc9ae145dba06032b92f0b29cb.jpg?v=637494367941870000"
+    }
+  ]
+}
